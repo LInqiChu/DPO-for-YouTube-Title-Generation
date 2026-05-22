@@ -123,17 +123,6 @@ Summary:
 - 3 epochs give good baseline; ****5+ epochs recommended****
 
 
-**Qualitative Result Comparison**
-----------------------------------------------------------------------
-Task                      | Base Output          | DPO Output
-----------------------------------------------------------------------
-LLM reasoning fine‑tuning | Master Advanced...   | Fine‑Tuning LLMs...
-Python data pipelines     | Build Data...        | Build Data...
-Build AI app in 4 days    | Build an AI App...   | Same as base
-LLMs explained            | LLMs Explained...    | The Future of AI...
-Physics → data science    | From Physics...      | Same as base
-----------------------------------------------------------------------
-
 ****Improvements from DPO:****
 - More specific, audience‑aware titles
 - Stronger action verbs and engagement hooks
